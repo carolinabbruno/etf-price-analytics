@@ -1,0 +1,4 @@
+requests
+azure-eventhub
+azure-identity
+azure-core
